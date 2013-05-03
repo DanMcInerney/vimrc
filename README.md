@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Ultimate vimrc
 
 Over the last 8 years I have used and tweaked Vim. This is my Ultimate vimrc.
@@ -310,3 +311,9 @@ Vimscript mappings:
 * [Vim 7.3: Persistent undo and encryption!](http://amix.dk/blog/post/19548#Vim-7-3-Persistent-undo-and-encryption)
 * [Vim tips: Visual Search](http://amix.dk/blog/post/19334#Vim-tips-Visual-Search)
 * [Folding in Vim](http://amix.dk/blog/post/19132#Folding-in-Vim)
+=======
+vimrc
+=====
+
+My .vimrc
+>>>>>>> c27d0aa3de76137ab6b4108656aa49b9bcad3513
